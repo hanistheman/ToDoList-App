@@ -1,1 +1,1 @@
-# ToDoList-App
+This project I will be learning how to build a productivity app in Java and other programming languages. I am doing this to see my progress in programming in the Python and Java programming languages. I will also create multiple versions so I can not only figure out how to make it functional, but also aesthetically appealing for myself to use. 
